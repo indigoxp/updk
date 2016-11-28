@@ -7,8 +7,6 @@ namespace UPDK
 		public App()
 		{
 			InitializeComponent();
-
-			MainPage = new UPDKPage();
 		}
 
 		protected override void OnStart()
