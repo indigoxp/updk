@@ -3,11 +3,11 @@ using System.Collections.Generic;
 
 using Xamarin.Forms;
 
-namespace UPDK
+namespace UPDK.Pages
 {
-	public partial class MainPage : ContentPage
+	public partial class Main : ContentPage
 	{
-		public MainPage()
+		public Main()
 		{
 			InitializeComponent();
 		}

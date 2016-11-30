@@ -8,7 +8,7 @@ namespace UPDK
 		{
 			InitializeComponent();
 
-			MainPage = new MainPage();
+			MainPage = new Pages.Main();
 		}
 
 		protected override void OnStart()
