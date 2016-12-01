@@ -47,13 +47,13 @@
     </Compile>
     <Compile Include="Interfaces\ISQLite.cs" />
     <Compile Include="Models\Region.cs" />
-    <Compile Include="Database.cs" />
     <Compile Include="Helpers\Settings.cs" />
     <Compile Include="Pages\Main.xaml.cs">
       <DependentUpon>Main.xaml</DependentUpon>
     </Compile>
     <Compile Include="Models\Build.cs" />
     <Compile Include="Models\RemoteService.cs" />
+    <Compile Include="Models\Database.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
